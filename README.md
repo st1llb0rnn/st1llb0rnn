@@ -76,20 +76,3 @@ My daily drivers are JetBrains IDEs (**PyCharm**, **WebStorm**, **IntelliJ**) al
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uchiha110&show_icons=true&theme=gotham&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchiha110&layout=compact&theme=gotham&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uchiha110&theme=gotham&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uchiha110&theme=gotham&hide_border=true" width="100%" />
-</p>
