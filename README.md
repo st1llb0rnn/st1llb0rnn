@@ -16,7 +16,7 @@ These days I'm focused on becoming a well-rounded **FullStack developer** — I'
 My daily drivers are JetBrains IDEs (**PyCharm**, **WebStorm**, **IntelliJ**) alongside **VS Code**.
 
 - 🌍 Based in **Crimea, Simferopol**
-- 🧠 Currently learning: **Vue.js**, **React**, **Go**, **Godot Engine**
+- 🧠 Currently learning: **Rust**, **Go**, **Godot Engine**
 - 🤝 Open to collaborating on: website development, Telegram/Discord bots, parsers, Python applications, and Go-based projects
 - ✉️ Reach me at **[ar.mor3.0001@gmail.com](mailto:ar.mor3.0001@gmail.com)**
 
@@ -66,7 +66,7 @@ My daily drivers are JetBrains IDEs (**PyCharm**, **WebStorm**, **IntelliJ**) al
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Uchiha110" target="_blank">
+<a href="https://github.com/st1llb0rnn" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://t.me/St1llb0rn1" target="_blank">
